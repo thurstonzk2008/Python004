@@ -1,4 +1,4 @@
-![第二周](/img/week02.png)
+![第二周](./img/week02.png)
 # 网络爬虫
 
 ## requests
