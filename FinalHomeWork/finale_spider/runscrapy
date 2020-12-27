@@ -1,0 +1,7 @@
+source ../_venv_/bin/activate
+scrapy crawl smzdm --nolog
+sleep 3
+scrapy crawl smzdm --nolog
+sleep 3
+python ./finale_spider/dataprocess.py
+deactivate
